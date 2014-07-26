@@ -1,4 +1,4 @@
-RAMA PARA COMENZAR A PROBAR SYMFONY
+Probando rama de imagenes creada
 ========================
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony2
