@@ -1,4 +1,4 @@
-Symfony Standard Edition 2.4 SALEXANDER
+RAMA DE IMAGENES DE PRUEBA
 ========================
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony2
